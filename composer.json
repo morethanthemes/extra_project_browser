@@ -1,0 +1,15 @@
+{
+  "name": "morethanthemes/extra_project_browser",
+  "description": "Project Browser source that lists extra_* recipes in the codebase and auto-enables the source.",
+  "type": "drupal-custom-module",
+  "license": "GPL-2.0-or-later",
+  "require": {
+    "drupal/core": ">=10",
+    "drupal/project_browser": "^2.1"
+  },
+  "extra": {
+    "drupal": {
+      "enforced": true
+    }
+  }
+}
