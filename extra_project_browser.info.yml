@@ -1,0 +1,7 @@
+name: 'Project Browser Extra Recipes'
+type: module
+description: 'Exposes extra_* recipes to Project Browser.'
+package: Custom
+core_version_requirement: ^10 || ^11
+dependencies:
+  - drupal:project_browser
