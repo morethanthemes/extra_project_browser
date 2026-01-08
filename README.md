@@ -1,3 +1,6 @@
+[ARCHIVED] Moved to 
+- https://www.drupal.org/project/extra_project_browser
+
 # Extra Project Browser
 
 Project Browser source plugin that exposes recipes prefixed with `extra_` found in your codebase. On install it auto-enables the source in Project Browser settings.
